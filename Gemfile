@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.1.10'
 
-gem 'krikri', '~>0.5.3'
+gem 'krikri', '~>0.5.3', github: 'dpla/KriKri', branch: 'fix/facets-and-index-view'
 
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
